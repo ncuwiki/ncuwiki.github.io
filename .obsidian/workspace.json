@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main_Page.md",
+                "file": "Main Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main_Page"
+              "title": "Main Page"
             }
           }
         ]
@@ -172,6 +172,8 @@
   "active": "fbf0d178a04ff16d",
   "lastOpenFiles": [
     "Main_Page.md~",
+    "Mage.md",
+    "Main Page.md",
     "Attack_Order.md",
     "Witch.md",
     "White_Robe.md",
@@ -195,8 +197,6 @@
     "The_Storm.md",
     "The_Shifting_Sands.md",
     "The_Setting_Obscene.md",
-    "The_Sandstorm_Sudden.md",
-    "The_Novis.md",
     "images/Nocover.png",
     "images/700px-Map_Text.jpg",
     "images/600px-Map_Text.jpg",
