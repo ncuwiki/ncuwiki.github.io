@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Page.md",
+                "file": "Mage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Page"
+              "title": "Mage"
             }
           }
         ]
@@ -171,9 +171,14 @@
   },
   "active": "fbf0d178a04ff16d",
   "lastOpenFiles": [
-    "Main_Page.md~",
-    "Mage.md",
+    "Mage.md~",
     "Main Page.md",
+    "Mage.md",
+    "Mage.md.temp",
+    "Mage.md.bak",
+    "fix.sh~",
+    "fix.sh",
+    "Main_Page.md~",
     "Attack_Order.md",
     "Witch.md",
     "White_Robe.md",
